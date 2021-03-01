@@ -1,0 +1,16 @@
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\bin\Debug\net5.0\SINGLETON.exe
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\bin\Debug\net5.0\SINGLETON.deps.json
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\bin\Debug\net5.0\SINGLETON.runtimeconfig.json
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\bin\Debug\net5.0\SINGLETON.runtimeconfig.dev.json
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\bin\Debug\net5.0\SINGLETON.dll
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\bin\Debug\net5.0\ref\SINGLETON.dll
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\bin\Debug\net5.0\SINGLETON.pdb
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\obj\Debug\net5.0\SINGLETON.csprojAssemblyReference.cache
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\obj\Debug\net5.0\SINGLETON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\obj\Debug\net5.0\SINGLETON.AssemblyInfoInputs.cache
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\obj\Debug\net5.0\SINGLETON.AssemblyInfo.cs
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\obj\Debug\net5.0\SINGLETON.csproj.CoreCompileInputs.cache
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\obj\Debug\net5.0\SINGLETON.dll
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\obj\Debug\net5.0\ref\SINGLETON.dll
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\obj\Debug\net5.0\SINGLETON.pdb
+C:\Users\vnaga\Videos\VSCODECSHARP\DESIGNPATTERN\SINGLETON\obj\Debug\net5.0\SINGLETON.genruntimeconfig.cache
